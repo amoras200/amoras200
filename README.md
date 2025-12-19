@@ -6,7 +6,9 @@
     <td width="70%">
       <h1>Olá, sou Gustavo 👋</h1>
       <p>
-        Desenvolvedor Backend focado em Python, Django, Flask e AWS.
+        Sou desenvolvedor Backend com foco em Python, atuando principalmente com Django e Flask no desenvolvimento de APIs e aplicações web. Tenho experiência com PostgreSQL para modelagem e persistência de dados, além de noções sólidas de arquitetura de sistemas, boas práticas e organização de código.
+
+ 
       </p>
     </td>
     <td width="30%" align="center">
@@ -14,7 +16,7 @@
     </td>
   </tr>
 </table>
-## 🛠️ Tecnologias & Ferramentas (Foco)
+<h1> 🛠️ Tecnologias & Ferramentas (Foco) </h1>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python%20Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white" />
