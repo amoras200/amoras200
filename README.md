@@ -6,10 +6,12 @@
     <td width="70%">
       <h1>Olá, sou Gustavo 👋</h1>
       <p>
-        Sou desenvolvedor Backend com foco em Python, atuando principalmente com Django e Flask no desenvolvimento de APIs e aplicações web. Tenho experiência com PostgreSQL para modelagem e persistência de dados, além de noções sólidas de arquitetura de sistemas, boas práticas e organização de código.
+        Sou desenvolvedor Backend com foco em Python, atuando principalmente com Django e Flask no desenvolvimento de APIs e aplicações web. Tenho experiência com PostgreSQL para modelagem.
 
- 
-      </p>
+Utilizo Linux como ambiente principal de desenvolvimento e possuo familiaridade com deploy, automação e serviços em nuvem, especialmente na AWS. Busco escrever soluções limpas, escaláveis e bem estruturadas, sempre com atenção à performance e manutenibilidade.
+        
+Estou em constante aprendizado, aplicando na prática novos conceitos através de projetos próprios, com o objetivo de evoluir tecnicamente e construir sistemas que resolvam problemas reais.
+</p>
     </td>
     <td width="30%" align="center">
       <img src="Code.gif" width="200"/>
