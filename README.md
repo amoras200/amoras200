@@ -44,30 +44,27 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 
 </div>
 <h1>🚀 Projetos em Destaque</h1>
-
-<table>
-  <tr>
-    <td width="65%">
-      <h3>🔹 NutriAção</h3>
-      <p>Projeto Acadêmico desenvolvido afim de conectar excedentes a potenciais doadores.</p>
-
-<p>🔗 <strong>GitHub:</strong><br/>
-<a href="https://github.com/NutriAcao/NutriAcao">github.com/amoras1601/NutriAção</a></p>
-
-<p>🛠️ <strong>Stack:</strong></p>
-<ul>
-  <li>Node</li>
-  <li>JavaScript</li>
-  <li>PostgreSQL</li>
-  <li>HTML</li>
-  <li>CSS</li>
-</ul>
-    </td>
-    <td width="35%">
-      <img src="logo-blue.png" width="300"/>
-    </td>
-  </tr>
-</table>
+ <table>
+    <tr>
+      <td width="65%">
+        <h3 align="center"><img src="logo-blue.png" width="100" align="center"/> </h3>
+        <p>Projeto Acadêmico desenvolvido afim de conectar excedentes a potenciais doadores.</p>
+        <p>🔗 <strong>GitHub:</strong><br/>
+        <a href="https://github.com/NutriAcao/NutriAcao">github.com/NutriAcao/NutriAcao</a></p>
+        <p>🛠️ <strong>Stack:</strong></p>
+        <ul>
+          <li>Node</li>
+          <li>JavaScript</li>
+          <li>PostgreSQL</li>
+          <li>HTML</li>
+          <li>CSS</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="projeto.gif" width="500"/>
+      </td>
+    </tr>
+  </table>
 <h1>📊 Estatísticas do GitHub</h1>
 
 <div align="center">
