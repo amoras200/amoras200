@@ -18,7 +18,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
     </td>
   </tr>
 </table>
-<h1> 🛠️ Tecnologias & Ferramentas (Foco) </h1>
+<h1> Tecnologias & Ferramentas </h1>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python%20Avançado-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +33,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 
 
 </div>
-<p>Conhecimentos adicionais</p>
+  <p align="center"> <b>Conhecimentos adicionais: </b></p>
 
 <div align="center">
 
