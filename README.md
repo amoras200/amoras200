@@ -25,13 +25,15 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
+
 </div>
-<h1>🔧 Conhecimentos adicionais</h1>
+<p>Conhecimentos adicionais</p>
 
 <div align="center">
 
@@ -48,6 +50,7 @@ Estou em constante aprendizado, aplicando na prática novos conceitos através d
     <tr>
       <td width="65%">
         <h3 align="center"><img src="logo-blue.png" width="100" align="center"/> </h3>
+        <p>NutriAção: </p>
         <p>Projeto Acadêmico desenvolvido afim de conectar excedentes a potenciais doadores.</p>
         <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/NutriAcao/NutriAcao">github.com/NutriAcao/NutriAcao</a></p>
