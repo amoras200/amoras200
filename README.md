@@ -104,7 +104,7 @@ Aprendo construindo: cada conceito novo vira um projeto prático antes de ir par
       <h3 align="center">Automação de Relatórios de Chargeback</h3>
       <p>Aplicação em Python que transforma planilhas Excel de chargeback em relatórios (PDF e Excel) com gráficos de valor por status mês a mês e de frequência por casa de show, para qualquer período. Pode ser executada com duplo clique, sem terminal.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/amoras200/relatorio-chargeback">github.com/amoras200/relatorio-chargeback</a></p>
+      <a href="https://github.com/amoras200/AutomacaoAnaliseFraudes">github.com/amoras200/AutomacaoAnaliseFraudes</a></p>
       <p>🛠️ <strong>Stack:</strong></p>
       <ul>
         <li>Python</li>
